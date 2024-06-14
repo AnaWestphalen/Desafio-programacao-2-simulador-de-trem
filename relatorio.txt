@@ -1,0 +1,29 @@
+Estação 1: subiram 33, desceram 25
+Estação 2: subiram 0, desceram 0
+Estação 3: subiram 0, desceram 0
+Estação 4: subiram 0, desceram 0
+Estação 5: subiram 0, desceram 0
+Estação 6: subiram 0, desceram 0
+Estação 7: subiram 0, desceram 0
+Estação 8: subiram 0, desceram 0
+Estação 9: subiram 0, desceram 0
+Estação 10: subiram 0, desceram 0
+
+Log de Movimentações:
+Trem 1 saiu às 08:00 indo para B
+Trem 2 saiu às 08:00 indo para A
+Trem 1 na estação 1: desceram 5, subiram 5
+Trem 2 na estação 1: desceram 6, subiram 10
+Trem 3 saiu às 09:00 indo para B
+Trem 4 saiu às 09:00 indo para A
+Trem 2 esperando no desvio antes da estação 1
+Trem 3 na estação 1: desceram 0, subiram 1
+Trem 4 na estação 1: desceram 4, subiram 2
+Trem 5 saiu às 10:00 indo para B
+Trem 6 saiu às 10:00 indo para A
+Trem 3 esperando no desvio antes da estação 1
+Trem 4 esperando no desvio antes da estação 1
+Trem 5 na estação 1: desceram 4, subiram 6
+Trem 6 na estação 1: desceram 6, subiram 9
+Trem 7 saiu às 11:00 indo para B
+Trem 8 saiu às 11:00 indo para A
